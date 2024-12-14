@@ -1,0 +1,31 @@
+class AppRouter {
+  static const String start = '/';
+  static const String login = '/login';
+  static const String loginPwd = '/LoginPwd';
+  static const String registerScreen = '/RegisterScreen';
+  static const String homeScreen = '/HomeScreen';
+  static const String homeScreenTwo = '/HomeScreenTwo';
+  static const String customDrawer = '/CustomDrawer';
+  static const String webViewScreen = '/WebViewScreen';
+  static const String loginScreenAnimated = '/LoginScreenAnimated';
+  static const String startLoginPage = '/StartLoginPage';
+  static const String mainScreen = '/MainScreen';
+  static const String splachScreen = '/SplaceScreen';
+  static const String signInOne = '/SignInOneScreen';
+  static const String signInTwo = '/SignInTwoScreen';
+  static const String signInThree = '/SignInThreeScreen';
+  static const String signInFour = '/SignInFourScreen';
+  static const String signInFive = '/SignInFiveScreen';
+  static const String signInSix = '/SignInSixScreen';
+  static const String signInSeven = '/SignInSevenScreen';
+  static const String signInEight = '/SignInEightScreen';
+  static const String signInNine = '/SignInNineScreen';
+  static const String signInTen = '/SignInTenScreen';
+  static const String loginScreenUI = '/LoginScreenUI';
+  static const String welcomRedScreen = '/WelcomRedScreen';
+  static const String loginRedScreen = '/LoginRedScreen';
+  static const String registerRedScreen = '/RegisterRedScreen';
+  static const String riveAppHome = '/RiveAppHome';
+  static const String adminResponseDashbard = '/AdminResponsiveDashBoard';
+  static const String loginResposiveScreen = '/LoginResposiveScreen';
+}
